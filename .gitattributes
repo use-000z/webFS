@@ -6,3 +6,6 @@ TOB.zip filter=lfs diff=lfs merge=lfs -text
 TW.zip filter=lfs diff=lfs merge=lfs -text
 logism.zip filter=lfs diff=lfs merge=lfs -text
 logisim.zip filter=lfs diff=lfs merge=lfs -text
+AdataURLRC.zip filter=lfs diff=lfs merge=lfs -text
+3syou.txt filter=lfs diff=lfs merge=lfs -text
+4syou.txt filter=lfs diff=lfs merge=lfs -text
